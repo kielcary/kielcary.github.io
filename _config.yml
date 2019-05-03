@@ -27,6 +27,8 @@ linkedin: 'kielary'
 
 # Navigation
 navigation:
+  - text: Grace Fellowship
+    url: http://www.gracemccook.com
   - text: Home
     url: /
   - text: About
