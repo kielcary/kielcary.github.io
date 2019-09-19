@@ -1,12 +1,12 @@
 # Site setings
 name: 'Kiel Cary'
 description: 'Blogging from Grace.'
-meta_description: 'A blog for the members and visitors of Grace Fellowship - a gospel community in McCook, Nebraska.'
+meta_description: 'A blog from the pastor of Grace Fellowship - a church in McCook, Nebraska.'
 logo:
 # Author image is used in site sidebar and greetings in the home page hero text
 author:
   image: 'authorimage.jpg'
-  greetings: "Welcome to Blogging from Grace - a blog for the members and visitors of Grace Fellowship in McCook, Nebraska."
+  greetings: "Welcome to Blogging from Grace!"
 favicon: 'assets/images/favicon.ico'
 baseurl: 
 production_url: https://www.bloggingfromgrace.com/
@@ -27,10 +27,10 @@ linkedin: 'kielary'
 
 # Navigation
 navigation:
-  - text: Grace Fellowship
-    url: http://www.gracemccook.com
   - text: Home
     url: /
+  - text: Grace Fellowship
+    url: http://www.gracemccook.com
   - text: About
     url: /about
   - text: Style Guide
