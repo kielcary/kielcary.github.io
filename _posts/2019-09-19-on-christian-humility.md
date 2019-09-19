@@ -1,8 +1,11 @@
 ---
+title: On Christian Humility
+date: 2019-09-19 00:00:00 Z
+tags:
+- Sermons
+- Philippians
 layout: post
-title:  "On Christian Humility"
-tags: [ Sermons, Philippians ]
-featured_image_thumbnail:
+featured_image_thumbnail: 
 featured_image: assets/images/posts/2019/philippians.jpg
 featured: true
 ---
