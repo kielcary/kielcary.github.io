@@ -16,7 +16,7 @@ The following text is an excerpt from the sermon "Joy in Humility", which covere
 
 [Humility is so valued by God that Jesus teaches that those who are humble are the ones who will ultimately be exalted.  They are the people who will be most rewarded in the kingdom of God.  
 
-In the Sermon on the Mount, there is a section we refer to the beatitudes, which are blessings clearly defined by Jesus.  This is one of the most well known parts of the Bible, and for good reason.  And of these blessings, the two of the first three are directly related to humility.  From Matthew 5 (ESV):
+In the Sermon on the Mount, there is a section we refer to the beatitudes, which are blessings clearly defined by Jesus.  This is one of the most well known parts of the Bible, and for good reason.  And of these blessings, the two of the first three are directly related to humility.  From Matthew 5, verses 3 and 5 (ESV):
 
 **³Blessed are the poor in spirit, 
 for theirs is the kingdom of heaven.**
@@ -26,9 +26,9 @@ for they will inherit the earth.**
 
 Those who think less of themselves - those who exalt themselves the least - are those who Jesus says will be most exalted by God.
 
-This is explained clearly by the parable of the Pharisee and the Tax Collector as told by Jesus in Luke 18:
+This is explained clearly by the parable of the Pharisee and the Tax Collector as told by Jesus in Luke 18:9-14 - 
 
-**9 He also told this parable to some who trusted in themselves that they were righteous, and treated others with contempt: 10 “Two men went up into the temple to pray, one a Pharisee and the other a tax collector. 11 The Pharisee, standing by himself, prayed thus: ‘God, I thank you that I am not like other men, extortioners, unjust, adulterers, or even like this tax collector. 12 I fast twice a week; I give tithes of all that I get.’ 13 But the tax collector, standing far off, would not even lift up his eyes to heaven, but beat his breast, saying, ‘God, be merciful to me, a sinner!’ 14 I tell you, this man went down to his house justified, rather than the other. For everyone who exalts himself will be humbled, but the one who humbles himself will be exalted.”  (ESV)**
+**He also told this parable to some who trusted in themselves that they were righteous, and treated others with contempt: “Two men went up into the temple to pray, one a Pharisee and the other a tax collector. The Pharisee, standing by himself, prayed thus: ‘God, I thank you that I am not like other men, extortioners, unjust, adulterers, or even like this tax collector. I fast twice a week; I give tithes of all that I get.’ But the tax collector, standing far off, would not even lift up his eyes to heaven, but beat his breast, saying, ‘God, be merciful to me, a sinner!’ I tell you, this man went down to his house justified, rather than the other. For everyone who exalts himself will be humbled, but the one who humbles himself will be exalted.”  (ESV)**
 
 Humility is essential to the Christian life.  
 
