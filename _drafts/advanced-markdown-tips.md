@@ -4,10 +4,10 @@ date: 2018-02-07 00:00:00 Z
 tags:
 - Jekyll
 - Tips
-layout: post
 featured_image_thumbnail: 
 featured_image: assets/images/posts/2018/7.jpg
 featured: true
+layout: post
 ---
 
 If you've gotten pretty comfortable with Markdown in Jekyll, then you may enjoy some more advanced tips about the types of things you can do with it!
