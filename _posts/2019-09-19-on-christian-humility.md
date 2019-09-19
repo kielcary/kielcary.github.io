@@ -13,10 +13,10 @@ Humility is so valued by God that Jesus teaches that those who are humble are th
 
 In the sermon on the mount, there is a section we refer to the beatitudes, which are blessings clearly defined by Jesus.  This is one of the most well known parts of the Bible, and for good reason.  And of these blessings, the two of the first three are directly related to humility.  From Matthew 5 (ESV):
 
-**³Blessed are the poor in spirit,**
+**³Blessed are the poor in spirit,**\
 **    for theirs is the kingdom of heaven.**
 
-**⁵Blessed are the meek,**
+**⁵Blessed are the meek,**\
 **    for they will inherit the earth.**
 
 Those who think less of themselves - those who exalt themselves the least - are those who Jesus says will be most exalted by God.
