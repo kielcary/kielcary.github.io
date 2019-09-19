@@ -14,7 +14,7 @@ layout: post
 
 The following text is an excerpt from the sermon ["Joy in Humility"](https://gracemccook.com/sermons/joy-in-humility-philippians-21-11/), which covered Philippians 2:1-11.
 
-\[Humility is so valued by God that Jesus teaches that those who are humble are the ones who will ultimately be exalted.  They are the people who will be most rewarded in the kingdom of God.
+Humility is so valued by God that Jesus teaches that those who are humble are the ones who will ultimately be exalted.  They are the people who will be most rewarded in the kingdom of God.
 
 In the Sermon on the Mount, there is a section we refer to the beatitudes, which are blessings clearly defined by Jesus.  This is one of the most well known parts of the Bible, and for good reason.  And of these blessings, the two of the first three are directly related to humility.  From Matthew 5, verses 3 and 5 (ESV):
 
