@@ -12,7 +12,7 @@ layout: post
 
 > Humility is a true indicator of a Christian.  It is a true indicator of a repentant heart.
 
-The following text is an excerpt from the sermon \["Joy in Humility"\](https://gracemccook.com/sermons/joy-in-humility-philippians-21-11/), which covered Philippians 2:1-11.
+The following text is an excerpt from the sermon ["Joy in Humility"](https://gracemccook.com/sermons/joy-in-humility-philippians-21-11/), which covered Philippians 2:1-11.
 
 \[Humility is so valued by God that Jesus teaches that those who are humble are the ones who will ultimately be exalted.  They are the people who will be most rewarded in the kingdom of God.
 
