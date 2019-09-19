@@ -1,3 +1,12 @@
+---
+layout: post
+title:  "On Christian Humility"
+tags: [ Sermons, Philippians ]
+featured_image_thumbnail:
+featured_image: assets/images/posts/2018/7.jpg
+featured: true
+---
+
 > Humility is a true indicator of a Christian.  It is a true indicator of a repentant heart.
 
 Humility is so valued by God that Jesus teaches that those who are humble are the ones who will ultimately be exalted.  They are the people who will be most rewarded in the kingdom of God.  
