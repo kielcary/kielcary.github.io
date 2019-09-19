@@ -3,7 +3,7 @@ layout: post
 title:  "On Christian Humility"
 tags: [ Sermons, Philippians ]
 featured_image_thumbnail:
-featured_image: assets/images/posts/2018/7.jpg
+featured_image: assets/images/posts/2019/philippians.jpg
 featured: true
 ---
 
