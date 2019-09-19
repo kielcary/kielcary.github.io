@@ -4,23 +4,26 @@ date: 2019-09-19 00:00:00 Z
 tags:
 - Sermons
 - Philippians
-layout: post
 featured_image_thumbnail: 
 featured_image: assets/images/posts/2019/philippians.jpg
 featured: true
+layout: post
 ---
+
+[The following text is an excerpt from the sermon "Joy in Humility", which covered Philippians 2:1-11.](https://gracemccook.com/sermons/joy-in-humility-philippians-21-11/)
+
 
 > Humility is a true indicator of a Christian.  It is a true indicator of a repentant heart.
 
 Humility is so valued by God that Jesus teaches that those who are humble are the ones who will ultimately be exalted.  They are the people who will be most rewarded in the kingdom of God.  
 
-In the sermon on the mount, there is a section we refer to the beatitudes, which are blessings clearly defined by Jesus.  This is one of the most well known parts of the Bible, and for good reason.  And of these blessings, the two of the first three are directly related to humility.  From Matthew 5 (ESV):
+In the Sermon on the Mount, there is a section we refer to the beatitudes, which are blessings clearly defined by Jesus.  This is one of the most well known parts of the Bible, and for good reason.  And of these blessings, the two of the first three are directly related to humility.  From Matthew 5 (ESV):
 
-**³Blessed are the poor in spirit,**\
-**    for theirs is the kingdom of heaven.**
+**³Blessed are the poor in spirit, 
+for theirs is the kingdom of heaven.**
 
-**⁵Blessed are the meek,**\
-**    for they will inherit the earth.**
+**⁵Blessed are the meek, 
+for they will inherit the earth.**
 
 Those who think less of themselves - those who exalt themselves the least - are those who Jesus says will be most exalted by God.
 
