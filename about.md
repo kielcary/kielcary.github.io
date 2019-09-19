@@ -1,15 +1,13 @@
 ---
 title: About
+featured_image: "/uploads/family.jpg"
 layout: page
-featured_image: "/assets/images/pages/about.jpg"
 ---
 
-Charles Lavoie is a senior developer from Vilnius, Lithuania. After graduating from The College with a degree in **Computer Science**, he worked for three small web shops where he honed his development skills and love for JavaScript.
+Kiel grew up in Chadron, Nebraska. He married Melissa in July of 2010, and together they have three boys (Jonas, Samuel, and Benjamin). They moved to McCook in 2016.
 
-His work has been recognized by Communication Arts, IBM, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. **Net** magazine named him a person to watch in 2018.
+Kiel graduated from Chadron State College in 2005 with a B.S. in Information Science and Technology, and worked in the software development field for several years. In 2010, Kiel joined the United States Army and served in the 82nd Airborne Division for four years, including one tour in Afghanistan. At the end of his enlistment, the family moved to Cincinnati, Ohio, where Kiel both re-entered the workforce as a software developer and enrolled in seminary at Cincinnati Christian University. After moving back to McCook, Kiel enrolled at Regent University to complete his Master’s of Divinity. He will graduate in December of 2019.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+The Cary family began attending Grace Baptist Church in 2017 after Kiel completed an internship in student ministry with McCook Christian Church. Kiel assumed part-time pastoral duties in early 2019, and became the full-time pastor in July of that year after the church re-planted as [Grace Fellowship](http://gracemccook.com) in downtown McCook.
 
-As a hobby, Daniel authors the most influential JavaScript blog in Lithuania with over 100,000 page views a month. He lives in Vilnius with his beautiful wife, two boys and one girl.
-
-*Thank You for reading!*
+You may find Kiel enjoying long car rides and conversations with his wife, playing outdoors with his three boys, listening to Alistair Begg and RC Sproul, reading anywhere, and any fellowship that involves drinking coffee.
