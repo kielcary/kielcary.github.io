@@ -1,18 +1,33 @@
 ---
-title: Tag Page
+title: Tag
 layout: default
-current: tag
-class: tag-template
 ---
 
-<main id="main" class="site-main">
-    <div class="post-feed inner">
-        <header class="page-header">
-            <h1 class="page-title">{{ page.tag }}</h1>
-            <p class="page-description">A collection of {{ paginator.total_posts }} {% if paginator.total_posts == 1 %}post{% else %}posts{% endif %}</p>
-        </header>
-        <div class="post-feed inner-wide">
-            {% for post in paginator.posts %}{% include postbox.html %}{% endfor %}
-        </div>
-    </div><!-- .post-feed -->
-</main><!-- .site-main -->
+{% comment %}
+=======================
+The following part extracts all the tags from your posts and sort tags, so that you do not need to manually collect your tags to a place.
+=======================
+{% endcomment %}
+{% assign rawtags = "" %}
+{% for post in site.posts %}
+	{% assign ttags = post.tags | join:'|' | append:'|' %}
+	{% assign rawtags = rawtags | append:ttags %}
+{% endfor %}
+{% assign rawtags = rawtags | split:'|' | sort %}
+
+{% comment %}
+=======================
+The following part removes dulpicated tags and invalid tags like blank tag.
+=======================
+{% endcomment %}
+{% assign tags = "" %}
+{% for tag in rawtags %}
+	{% if tag != "" %}
+		{% if tags == "" %}
+			{% assign tags = tag | split:'|' %}
+		{% endif %}
+		{% unless tags contains tag %}
+			{% assign tags = tags | join:'|' | append:'|' | append:tag | split:'|' %}
+		{% endunless %}
+	{% endif %}
+{% endfor %}
