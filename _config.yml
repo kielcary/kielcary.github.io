@@ -35,8 +35,6 @@ navigation:
   url: http://www.gracemccook.com
 - text: About
   url: "/about"
-- text: Style Guide
-  url: "/style-guide"
 - text: Contact Me
   url: "/contact"
 plugins_dir:
