@@ -2,8 +2,8 @@
 title: On Romans 8:31
 date: 2019-10-07 16:01:00 Z
 tags:
-- Romans
-- Letters
+- romans
+- letters
 featured_image: "/uploads/Romans8-31.jpg"
 featured: true
 ---
