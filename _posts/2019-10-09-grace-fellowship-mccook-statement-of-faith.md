@@ -84,7 +84,7 @@ _Genesis 15:1-6; Matthew 11:22-30; John 3:16-18; 6:35-36; Romans 1:16-17; 3:21-2
 
 **XII. Justification**  
 
-Justification is God’s gracious and full acquittal of sinners who believe in Christ. The are acquitted of all sin through the work of Christ. This justification is not the result of anything worked in them or done by them. Instead, it is on account of the obedience and satisfaction of Christ, which they have received and rested on Him and His righteousness by faith.  
+Justification is God’s gracious and full acquittal of sinners who believe in Christ. They are acquitted of all sin through the work of Christ. This justification is not the result of anything worked in them or done by them. Instead, it is on account of the obedience and satisfaction of Christ, which they have received and rested on Him and His righteousness by faith.  
 
 _Psalm 32:1- 2; Isaiah 53:4-6; Micah 7:18-20; Romans 3:21-26; 4:1-5; 2 Corinthians 5:17-21; Galatians 2:15-21; Titus 3:3-7_  
 
