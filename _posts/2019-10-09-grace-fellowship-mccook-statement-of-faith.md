@@ -28,19 +28,19 @@ God is revealed to us as Father, Son and Holy Spirit. Each of these persons of t
 
 _Genesis 1:2, 26; 3:22; Deuteronomy 6:4; Psalm 110 and Matthew 22:41-46; Matthew 3:13- 17; Romans 8:12-17; 2 Corinthians 13:14; Ephesians 1:3-14; Colossians 1:15-20_  
 
-**A. God the Father**  
+**III. God the Father**  
 
 There is one God: the Maker, Preserver and Ruler of all things, having in and of himself, all perfections, and being infinite in them all. To Him all creatures owe the highest love, reverence and obedience. As Creator He is Father to all men, but He is spiritual Father only to believers.  
 
 _Genesis 1:1-2; Exodus 3:12-15; Deuteronomy 6:4; Jeremiah 10:1-16; Matthew 6:5-15; Romans 8:12-14; Ephesians 4:1-6; James 1:13-18; Revelation 4_  
 
-**B.God the Son**  
+**IV.God the Son**  
 
 Jesus Christ, the only begotten Son of God, is the divinely appointed mediator between God and man. Having taken upon Himself human nature, yet without sin, He perfectly fulfilled the Law. He suffered and died upon the cross for the salvation of sinners. He was buried and rose again on the third day. He ascended to His Father, and He lives forever at the right hand of the Father, making intercession for His people. He is the only Mediator, the Prophet, Priest and King of the Church, and Sovereign of the Universe.  
 
 _Genesis 3:15; Psalm 110:1-4; Isaiah 53; John 4:24, 5:19-30, 14:6-13; Colossians 1:15-19; Hebrews 1:1-4; 7:11-28; 1 Timothy 2:5-6, 3:16; Revelation 5_  
 
-**C. God the Holy Spirit**  
+**V. God the Holy Spirit**  
 
 The Holy Spirit is the Spirit of God, fully divine. He inspired holy men of old to write the Scriptures.Through illumination He enables men to understand truth. He exalts Christ. He convicts men of sin, of righteousness, and of judgment. He calls men to the Savior and effects regeneration. At the moment of regeneration, He baptizes every believer into the Body of Christ. He cultivates Christian character, comforts believers, and bestows the spiritual gifts by which they serve God through His church. He seals the believer unto the day of final redemption. His presence in the Christian is the guarantee that God will bring the believer into the fullness of the stature of Christ. He enlightens and empowers the believer and the church in worship, evangelism, and service.  
 
