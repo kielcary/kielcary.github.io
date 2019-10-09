@@ -12,6 +12,8 @@ This statement of faith is based on the Abstract of Principles - a founding docu
 
 Additionally, some information has been changed or added.  The section on the Trinity has been expanded to include information on each person of the Triune Godhead.  The section on the Lord's day has been changed to include language and concepts from the [Baptist Faith and Message 2000](http://www.sbc.net/bfm2000/bfm2000.asp).  Last, a section on "The Family" was added, which also came from the BFM2000\.  The wording of these items, as well as the Scriptural references for each primary topic, are based upon or adopted from the statement of faith from [The Master's Community Church.](https://themcc.org)
 
+***
+
 # Grace Fellowship Statement of Faith
 
 **I. The Scriptures**  
