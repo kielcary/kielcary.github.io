@@ -8,7 +8,7 @@ featured_image:
 featured: false
 ---
 
-This statement of faith is based on the Abstract of Principles - a founding document for the [SBTS](http://www.sbts.edu).  Some language has been clarified for modern readers, though I have attempted to stay true to the original document.
+This statement of faith is based on the [Abstract of Principles](https://www.sbts.edu/about/abstract/) - a founding document for the [SBTS](http://www.sbts.edu).  Some language has been clarified for modern readers, though I have attempted to stay true to the original document.
 
 Additionally, some information has been changed or added.  The section on the Trinity has been expanded to include information on each person of the Triune Godhead.  The section on the Lord's day has been changed to include language and concepts from the [Baptist Faith and Message 2000](http://www.sbc.net/bfm2000/bfm2000.asp).  Last, a section on "The Family" was added, which also came from the BFM2000\.  The wording of these items, as well as the Scriptural references for each primary topic, are based upon or adopted from the statement of faith from [The Master's Community Church.](https://themcc.org)
 
@@ -135,6 +135,7 @@ _Matthew 22:15-22; Acts 4:19-20; Romans 12:18-13:7; 14:1-23; 1 Corinthians 6:1-7
 After men die, their bodies will return to dust. However, their spirits return immediately to God. The righteous will immediately go to be with Him, but the wicked to be kept under darkness until the judgment. On the last day, the bodies of all the dead - both the just and unjust - will be raised.  
 
 _Matthew 16:24-28; Luke 16:19-31; John 11:17-27; 14:1-6; 1 Corinthians 15:24-28, 35-58; Philippians 3:20-21; 1 Thessalonians 4:13-18; 2 Peter 3:8-13_   
+
 **XXI. The Judgment**  
 
 God has appointed a day on which He will judge the world by Jesus Christ, when everyone shall receive judgement according to his deeds. The wicked will go into everlasting punishment. The righteous will go into everlasting life.  
