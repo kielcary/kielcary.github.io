@@ -54,7 +54,7 @@ _Genesis 50:20; Psalm 103, 104; Proverbs 16:9; Isaiah 40:7-26; 45:5-7; 46:3-13; 
 
 **VII. Election**  
 
-Election is God’s eternal choice of some persons unto everlasting life — not because of foreseen merit in them, but because of his mere mercy in Christ. As a result of God’s choice, these people are called, justified and glorified.  
+Election is God’s eternal choice of some persons unto everlasting life — not because of foreseen merit in them, but because of his mere mercy in Christ. As a result of God’s choice, these people are called, justified, and glorified.  
 
 _Genesis 25:19- 26; John 6:37-40; Acts 13:48; Romans 8:28-38; 9-11; 1 Corinthians 1:26-31; Ephesians 1:3-11; 1 Thessalonians 1:3; 2 Timothy 2:10; 1 Peter 2:1-10_  
 
